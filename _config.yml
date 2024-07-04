@@ -9,14 +9,14 @@
 title                    : "Changhao Pan(潘昶皓)"
 description              : "A senior student in ZJU majoring AI, focusing on NLP, music and singing."
 repository               : "DaViD-Pigeon/DaViD-Pigeon.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  ijFvpu5FI7CKIxaUqsRuDTndrKTjVBLaeN-PPh-m8s8
+bing_site_verification   :  D52CFD677BD4EF2A4183E21BA7EA7492
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
