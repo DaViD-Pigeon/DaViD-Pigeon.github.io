@@ -1,7 +1,24 @@
 
-# 📝 Publications 
-## 🎙 Singing Voice Synthesis
+# 📝 Publications
+*#* denotes co-first authors
 
+## 🎙 Singing Voice Synthesis
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Arxiv 2024</div>
+            <img src='../../images/gtsinger.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks]() \\
+Yu Zhang, **Changhao Pan***#*, Wenxiang Guo, Ruiqi Li, Zhiyuan Zhu, Jialei Wang, Wenhao Xu, Jingyu Lu, Zhiqing Hong, Chuxin Wang, LiChao Zhang, Jinzheng He, Ziyue Jiang, Yuxin Chen, Chen Yang,Jiecheng Zhou, Xinyu Cheng, Zhou Zhao
+
+[**Project**](https://github.com/GTSinger/GTSinger) | [**Data**](https://huggingface.co/datasets/GTSinger/GTSinger) | [**Demo**](https://gtsinger.github.io)
+
+- GTSinger is a large Global, multi-Technique, free-to-use, high-quality singing corpus with realistic music scores, designed for all singing tasks.
+</div>
+</div>
 
 ## 🎼 Music Generation 
 

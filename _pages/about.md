@@ -17,4 +17,8 @@ redirect_from:
 
 {% include_relative includes/honors.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/education.md %}
+
+{% include_relative includes/research-intern.md %}
+
+{% include_relative includes/academic-service.md %}
