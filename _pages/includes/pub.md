@@ -23,6 +23,8 @@ Yu Zhang, **Changhao Pan***#*, Wenxiang Guo*#*, Ruiqi Li, Zhiyuan Zhu, Jialei Wa
 
 - ``EMNLP-2024`` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao.
 
+- ``AAAI-2025`` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al. 
+
 ## 🎼 Music Generation 
 
 ## Others
