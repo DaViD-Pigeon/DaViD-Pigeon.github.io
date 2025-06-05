@@ -58,7 +58,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
 - `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al. 
 
-## 🔊 Spatial Audio
+## 👂 Spatial Audio
 
 <div class='paper-box'>
     <div class='paper-box-image'>
