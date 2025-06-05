@@ -21,4 +21,6 @@ redirect_from:
 
 {% include_relative includes/research-intern.md %}
 
-<!-- {% include_relative includes/academic-service.md %} -->
+{% include_relative includes/academic-service.md %}
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QTxr5pjXKYjkms-OqKjcN2pEF7rYZUpDkjTs7-0jP5c"></script>

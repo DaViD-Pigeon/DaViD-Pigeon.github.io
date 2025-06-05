@@ -1,4 +1,4 @@
 # 📚 Academic Service
 
-- Conference Reviewer/Program Committee:
-- Assist to Review: NeurIPS 2024; AAAI 2024; ACM-MM 2024; TMM
+- Conference Reviewer: NeurIPS 2025; ACL 2025
+- Assist to Review: NeurIPS 2024; CVPR 2025; ACM-MM 2025; EMNLP 2025; TMM
