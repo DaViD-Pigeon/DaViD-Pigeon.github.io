@@ -23,4 +23,6 @@ redirect_from:
 
 {% include_relative includes/academic-service.md %}
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QTxr5pjXKYjkms-OqKjcN2pEF7rYZUpDkjTs7-0jP5c"></script>
+<div id="clustrmaps-container" style="width: 200px; height: 200px; margin: 20px auto; overflow: hidden;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QTxr5pjXKYjkms-OqKjcN2pEF7rYZUpDkjTs7-0jP5c"></script>
+</div>
