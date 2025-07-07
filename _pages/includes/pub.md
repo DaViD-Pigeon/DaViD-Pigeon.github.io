@@ -94,6 +94,24 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 </div>
 </div>
 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Submitted to NeurIPS 2025</div>
+            <img src='../../images/mrsaudio.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations]() \\
+Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Demo**](https://mrsaudio.github.io/)
+
+- The **largest recorded spatial audio dataset** contains four scenarios: daily life, singing, music, and speech, with a total duration of **500 hours**.
+- Supports **multiple spatial audio tasks**: audio spatialization, spatial TTA, acoustic event localization and detection(SELD), etc.
+</div>
+</div>
+
 ## 🎼 Music Generation
 
 <div class='paper-box'>
@@ -112,23 +130,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 </div>
 </div>
 
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">Submitted to NeurIPS 2025</div>
-            <img src='../../images/mrsaudio.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
 
-[]() \\
-Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
-
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Demo**](https://mrsaudio.github.io/)
-
-- The **largest recorded spatial audio dataset** contains four scenarios: daily life, singing, music, and speech, with a total duration of **500 hours**.
-- Supports **multiple spatial audio tasks**: audio spatialization, spatial TTA, acoustic event localization and detection(SELD), etc.
-</div>
-</div>
 
 ## Others
 - ``IEEE-TVCG`` [Interactive Table Synthesis with Natural Language](https://ieeexplore.ieee.org/document/10304286), Yanwei Huang, Yunfan Zhou, Ran Chen, **Changhao Pan**, Xinhuan Shu, Di Weng, Yingcai Wu.
