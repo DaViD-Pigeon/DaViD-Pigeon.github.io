@@ -63,7 +63,24 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Preprint</div>
+            <div class="badge">ACM-MM 2025</div>
+            <img src='../../images/mesa.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference]() \\
+**Changhao Pan**#, Wenxiang Guo, Yu Zhang, et al.
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]()[**Project**](https://david-pigeon.github.io/mesa-demo/) 
+- PSA-MOS provides 50 hours of high-quality spatial audio recordings, with detailed localization annotations and fine-grained MOS ratings.
+- MESA is a multimodal evaluation framework for spatial audio playback systems which exhibits strong correlation with human perceptual assessments.
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ACM-MM 2025</div>
             <img src='../../images/isdrama.png' alt="sym" width="100%"></div>
         </div>
         <div class='paper-box-text' markdown="1">
@@ -71,7 +88,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[**Project**](https://aaronz345.github.io/ISDramaDemo/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]()[**Project**](https://aaronz345.github.io/ISDramaDemo/) 
 - MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
 - ISDrama is the first immersive spatial drama generation model through multimodal prompting.
 </div>
@@ -92,6 +109,24 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
 [**Project**](https://aaronz345.github.io/VersBandDemo/) 
 - VersBand is a multi-task song generation framework for synthesizing high-quality, aligned songs with prompt-based control. 
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Submitted to NeurIPS 2025</div>
+            <img src='../../images/mrsaudio.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[]() \\
+Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Demo**](https://mrsaudio.github.io/)
+
+- The **largest recorded spatial audio dataset** contains four scenarios: daily life, singing, music, and speech, with a total duration of **500 hours**.
+- Supports **multiple spatial audio tasks**: audio spatialization, spatial TTA, acoustic event localization and detection(SELD), etc.
 </div>
 </div>
 
