@@ -71,7 +71,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference]() \\
 **Changhao Pan**#, Wenxiang Guo, Yu Zhang, et al.
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]()[**Project**](https://david-pigeon.github.io/mesa-demo/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Project**](https://david-pigeon.github.io/mesa-demo/) 
 - PSA-MOS provides 50 hours of high-quality spatial audio recordings, with detailed localization annotations and fine-grained MOS ratings.
 - MESA is a multimodal evaluation framework for spatial audio playback systems which exhibits strong correlation with human perceptual assessments.
 </div>
@@ -88,7 +88,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]()[**Project**](https://aaronz345.github.io/ISDramaDemo/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
 - MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
 - ISDrama is the first immersive spatial drama generation model through multimodal prompting.
 </div>
