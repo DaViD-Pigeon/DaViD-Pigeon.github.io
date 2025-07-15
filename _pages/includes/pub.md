@@ -33,7 +33,7 @@ Yu Zhang, **Changhao Pan***#*, Wenxiang Guo*#*, et al.
 [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation]() \\
 Wenxiang Guo#, Yu Zhang#, **Changhao Pan**#, et al.
 
-[**Project**](https://demo-stars.github.io/)   
+[**Project**](https://demo-stars.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)   
 - STARS is a unified framework for singing transcription, alignment, and refined style annotation based on hierarchical representation learning.
 </div>
 </div>
@@ -54,9 +54,9 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 </div>
 </div>
 
-- `EMNLP-2024` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao.
+- `EMNLP-2024` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao. ｜ [**Project**](https://aaronz345.github.io/TCSingerDemo/) \| [![](https://img.shields.io/github/stars/AaronZ345/TCSinger?style=social&label=TCSinger+Stars)](https://github.com/AaronZ345/TCSinger) 
 
-- `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al. 
+- `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al.  \| [**Project**](https://gwx314.github.io/tech-singer/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
 
 ## 👂 Spatial Audio
 
