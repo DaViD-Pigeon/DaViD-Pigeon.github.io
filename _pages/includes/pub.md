@@ -14,7 +14,7 @@
 [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](http://papers.nips.cc/paper_files/paper/2024/hash/023d2c1a17cf35b11a0cbb43a0677c91-Abstract-Datasets_and_Benchmarks_Track.html) \\
 Yu Zhang, **Changhao Pan***#*, Wenxiang Guo*#*, et al.
 
-[![](https://img.shields.io/github/stars/GTSinger/GTSinger?style=social&label=Project+Stars)](https://github.com/GTSinger/GTSinger) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/GTSinger/GTSinger) [**Demo**](https://gtsinger.github.io)
+[![](https://img.shields.io/github/stars/GTSinger/GTSinger?style=social&label=Project+Stars)](https://github.com/GTSinger/GTSinger) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/GTSinger/GTSinger) [**Demo**](https://aaronz345.github.io/GTSingerDemo/home)
 
 - GTSinger is a large Global, multi-Technique, free-to-use, high-quality singing corpus with realistic music scores, designed for all singing tasks.
 - Our work is promoted by multiple media and forums, such as [![weixin](https://img.shields.io/badge/-WeChat@机器之心-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/B1Iqr-24l57f0MslzYEslA), [![weixin](https://img.shields.io/badge/-WeChat@PaperWeekly-000000?logo=wechat&logoColor=07C160)](https://mp.weixin.qq.com/s/6RLdUzJM5PItklKUTTNz2w), and [![zhihu](https://img.shields.io/badge/-知乎-000000?logo=zhihu&logoColor=0084FF)](https://zhuanlan.zhihu.com/p/993933492).
@@ -33,7 +33,7 @@ Yu Zhang, **Changhao Pan***#*, Wenxiang Guo*#*, et al.
 [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation]() \\
 Wenxiang Guo#, Yu Zhang#, **Changhao Pan**#, et al.
 
-[**Project**](https://demo-stars.github.io/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)   
+[**Project**](https://gwx314.github.io/stars-demo/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)   
 - STARS is a unified framework for singing transcription, alignment, and refined style annotation based on hierarchical representation learning.
 </div>
 </div>
@@ -88,7 +88,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
 - MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
 - ISDrama is the first immersive spatial drama generation model through multimodal prompting.
 </div>
