@@ -30,7 +30,7 @@ Yu Zhang, **Changhao Pan***#*, Wenxiang Guo*#*, et al.
         </div>
         <div class='paper-box-text' markdown="1">
 
-[STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation]() \\
+[STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/pdf/2507.06670) \\
 Wenxiang Guo#, Yu Zhang#, **Changhao Pan**#, et al.
 
 [**Project**](https://gwx314.github.io/stars-demo/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)   
