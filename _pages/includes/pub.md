@@ -125,7 +125,7 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
 [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=Versband+Stars)](https://github.com/AaronZ345/Versband) \|  [**Project**](https://aaronz345.github.io/VersBandDemo/) 
+[![](https://img.shields.io/github/stars/AaronZ345/Versband?style=social&label=Versband+Stars)](https://github.com/AaronZ345/Versband) \|  [**Project**](https://aaronz345.github.io/VersBandDemo/) 
 - VersBand is a multi-task song generation framework for synthesizing high-quality, aligned songs with prompt-based control. 
 </div>
 </div>
