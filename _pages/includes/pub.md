@@ -88,7 +88,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=Project+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
+[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=ISDrama+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
 - MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
 - ISDrama is the first immersive spatial drama generation model through multimodal prompting.
 </div>
@@ -117,7 +117,7 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Preprint</div>
+            <div class="badge">EMNLP 2025(Findings)</div>
             <img src='../../images/versband.png' alt="sym" width="100%"></div>
         </div>
         <div class='paper-box-text' markdown="1">
@@ -125,7 +125,7 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
 [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[**Project**](https://aaronz345.github.io/VersBandDemo/) 
+[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=Versband+Stars)](https://github.com/AaronZ345/Versband) \|  [**Project**](https://aaronz345.github.io/VersBandDemo/) 
 - VersBand is a multi-task song generation framework for synthesizing high-quality, aligned songs with prompt-based control. 
 </div>
 </div>
