@@ -97,7 +97,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">Submitted to NeurIPS 2025</div>
+            <div class="badge">NeurIPS 2025</div>
             <img src='../../images/mrsaudio.png' alt="sym" width="100%"></div>
         </div>
         <div class='paper-box-text' markdown="1">
