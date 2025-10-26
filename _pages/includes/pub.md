@@ -112,7 +112,7 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
 </div>
 </div>
 
-- `Preprint` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
+- `AACL-IJCNLP` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
 
 
 ## 🎼 Music Generation

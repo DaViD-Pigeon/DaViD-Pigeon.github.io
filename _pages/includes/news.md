@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.10*  🎉 Two Survey papers are accepted by AACL-IJCNLP 2026(main conference)!
 - *2025.09*  🎉 [MRSAudio](https://mrsaudio.github.io/) is accepted by NeurIPS 2025!
 - *2025.09*  🎉 [Versband](https://github.com/AaronZ345/VersBand) is accepted by EMNLP 2025(Findings)!
 - *2025.07*  🎉 2 papers(MESA & ISDrama) are accepted by ACM-MM!
