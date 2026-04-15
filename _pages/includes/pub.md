@@ -54,6 +54,8 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 </div>
 </div>
 
+- `AACL-IJCNLP-2025(Oral)` [Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches](https://aclanthology.org/2025.ijcnlp-long.24/), **Changhao Pan**, Dongyu Yao, Yu Zhang, et al. \| [![](https://img.shields.io/github/stars/DaViD-Pigeon/SyntheticSingers?style=social&label=SyntheticSingers+Stars)](https://github.com/DaViD-Pigeon/SyntheticSingers)
+
 - `EMNLP-2024` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao. ｜ [**Project**](https://aaronz345.github.io/TCSingerDemo/) \| [![](https://img.shields.io/github/stars/AaronZ345/TCSinger?style=social&label=TCSinger+Stars)](https://github.com/AaronZ345/TCSinger) 
 
 - `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al.  \| [**Project**](https://gwx314.github.io/tech-singer/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
@@ -112,7 +114,7 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
 </div>
 </div>
 
-- `AACL-IJCNLP` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
+- `AACL-IJCNLP-2025` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
 
 
 ## 🎼 Music Generation
@@ -136,4 +138,7 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
 
 ## Others
+
+- ``ACL-2026`` [Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness](https://arxiv.org/abs/2603.14889), Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, **Changhao Pan**, et al.
+
 - ``IEEE-TVCG`` [Interactive Table Synthesis with Natural Language](https://ieeexplore.ieee.org/document/10304286), Yanwei Huang, Yunfan Zhou, Ran Chen, **Changhao Pan**, Xinhuan Shu, Di Weng, Yingcai Wu.
