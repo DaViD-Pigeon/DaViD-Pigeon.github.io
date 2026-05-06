@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*  🎉 2 Papers are accepted by ICML 2026!
 - *2026.04*  🎉 [LFS-Bench](https://david-pigeon.github.io/SwanBench-Speech_Demo/) and [SDiaReward](https://arxiv.org/abs/2603.14889)  are accepted by ACL!
 - *2025.10*  🎉 Two Survey papers are accepted by AACL-IJCNLP 2026(main conference)!
 - *2025.09*  🎉 [MRSAudio](https://mrsaudio.github.io/) is accepted by NeurIPS 2025!
