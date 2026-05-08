@@ -117,6 +117,12 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
 - `AACL-IJCNLP-2025` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
 
 
+## 📹 Audio-Visual Generation
+
+- `ICML-2026` [TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation](https://arxiv.org/abs/2605.01809v1), Xiaoda yang#, Majun Zhang#, **Changhao Pan**, et al.
+
+- `Arxiv` [ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks](https://arxiv.org/abs/2604.07958), Jiayang Xu, Fan Zhuo, Majun Zhang, **Changhao Pan**, et al. 
+
 ## 🎼 Music Generation
 
 <div class='paper-box'>
