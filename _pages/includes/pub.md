@@ -1,6 +1,118 @@
-
 # 📝 Publications
 *#* denotes co-first authors
+
+## 🗣 Text-to-Speech
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ACL 2026</div>
+            <img src='../../images/SwanBench-Speech.png' alt="SwanBench-Speech" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](https://arxiv.org/abs/2605.28618) \\
+**Changhao Pan**, Rui Yang, Han Wang, et al.
+
+[**Project**](https://swanaigc.github.io/#bench) \| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MM-Speech/SwanBench-Speech)
+
+- SwanBench-Speech evaluates long-form speech generation across scenario coverage, automatic metrics, and model behavior analysis.
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">Technique Report</div>
+            <img src='../../images/SwanVoice.png' alt="SwanVoice" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](https://arxiv.org/abs/2605.30993) \\
+Ruiqi Li#, Yu Zhang#, **Changhao Pan**#, et al.
+
+[**Project**](https://swanaigc.github.io/#swanvoice)
+
+- SwanVoice models monologue and dialogue generation in one system, using speaker-turn conditioning and flow matching to keep voice, rhythm, and conversation context coherent.
+
+</div>
+</div>
+
+## 👂 Spatial Audio
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ACM-MM 2025</div>
+            <img src='../../images/mesa.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference]() \\
+**Changhao Pan**#, Wenxiang Guo, Yu Zhang, et al.
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Project**](https://david-pigeon.github.io/mesa-demo/) 
+- PSA-MOS provides 50 hours of high-quality spatial audio recordings, with detailed localization annotations and fine-grained MOS ratings.
+- MESA is a multimodal evaluation framework for spatial audio playback systems which exhibits strong correlation with human perceptual assessments.
+</div>
+</div>
+
+<!-- <div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ACM-MM 2025</div>
+            <img src='../../images/isdrama.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
+Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
+
+[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=ISDrama+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
+- MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
+- ISDrama is the first immersive spatial drama generation model through multimodal prompting.
+</div>
+</div> -->
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">NeurIPS 2025</div>
+            <img src='../../images/mrsaudio.png' alt="sym" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations]() \\
+Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
+
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Demo**](https://mrsaudio.github.io/)
+
+- The **largest recorded spatial audio dataset** contains four scenarios: daily life, singing, music, and speech, with a total duration of **500 hours**.
+- Supports **multiple spatial audio tasks**: audio spatialization, spatial TTA, acoustic event localization and detection(SELD), etc.
+</div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">ICML 2026</div>
+            <img src='../../images/SwanSphere.png' alt="SwanSphere" width="100%"></div>
+        </div>
+        <div class='paper-box-text' markdown="1">
+
+[SwanSphere: Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940) \\
+Ke Lei#, Yu Zhang#, **Changhao Pan**#, et al.
+
+[**Project**](https://swanaigc.github.io/#swansphere)
+
+- SwanSphere combines streaming spatial audio generation, SVAC alignment, and multi-objective ODPO for synchronized video-to-spatial and text-to-spatial audio synthesis.
+
+</div>
+</div>
+
+- `ACMMM-2025` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al. \| [![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=ISDrama+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
+
+- `AACL-IJCNLP-2025` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
 
 ## 🎙 Singing Voice Synthesis
 <div class='paper-box'>
@@ -60,69 +172,6 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
 - `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al.  \| [**Project**](https://gwx314.github.io/tech-singer/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
 
-## 👂 Spatial Audio
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACM-MM 2025</div>
-            <img src='../../images/mesa.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
-
-[A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference]() \\
-**Changhao Pan**#, Wenxiang Guo, Yu Zhang, et al.
-
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Project**](https://david-pigeon.github.io/mesa-demo/) 
-- PSA-MOS provides 50 hours of high-quality spatial audio recordings, with detailed localization annotations and fine-grained MOS ratings.
-- MESA is a multimodal evaluation framework for spatial audio playback systems which exhibits strong correlation with human perceptual assessments.
-</div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACM-MM 2025</div>
-            <img src='../../images/isdrama.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
-
-[ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
-Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
-
-[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=ISDrama+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
-- MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
-- ISDrama is the first immersive spatial drama generation model through multimodal prompting.
-</div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">NeurIPS 2025</div>
-            <img src='../../images/mrsaudio.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
-
-[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations]() \\
-Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
-
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Demo**](https://mrsaudio.github.io/)
-
-- The **largest recorded spatial audio dataset** contains four scenarios: daily life, singing, music, and speech, with a total duration of **500 hours**.
-- Supports **multiple spatial audio tasks**: audio spatialization, spatial TTA, acoustic event localization and detection(SELD), etc.
-</div>
-</div>
-
-- `AACL-IJCNLP-2025` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
-
-
-## 📹 Audio-Visual Generation
-
-- `ICML-2026` [TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation](https://arxiv.org/abs/2605.01809v1), Xiaoda yang#, Majun Zhang#, **Changhao Pan**, et al.
-
-- `Arxiv` [ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks](https://arxiv.org/abs/2604.07958), Jiayang Xu, Fan Zhuo, Majun Zhang, **Changhao Pan**, et al. 
-
 ## 🎼 Music Generation
 
 <div class='paper-box'>
@@ -141,7 +190,11 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 </div>
 </div>
 
+## 📹 Audio-Visual Generation
 
+- `ICML-2026` [TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation](https://arxiv.org/abs/2605.01809v1), Xiaoda yang#, Majun Zhang#, **Changhao Pan**, et al.
+
+- `Arxiv` [ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks](https://arxiv.org/abs/2604.07958), Jiayang Xu, Fan Zhuo, Majun Zhang, **Changhao Pan**, et al. 
 
 ## Others
 
