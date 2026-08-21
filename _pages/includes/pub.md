@@ -12,7 +12,7 @@
         <div class='paper-box-text' markdown="1">
 
 [SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://arxiv.org/abs/2608.02023) \\
-Yu Zhang, Ruiqi Li, **Changhao Pan**, et al.
+Yu Zhang#, Ruiqi Li#, **Changhao Pan**#, et al.
 
 [**Project**](https://swanaigc.github.io/#swantale) \| [**#1st of the Daily Paper**](https://huggingface.co/papers/2608.02023)
 
@@ -55,16 +55,13 @@ Ruiqi Li#, Yu Zhang#, **Changhao Pan**#, et al.
 </div>
 </div>
 
-- `Preprint` [Audio Editing in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2606.23139), **Changhao Pan**, Yifei Fan, Fan Zhuo, Yifu Chen, Wenxiang Guo, Yu Zhang, et al. \\
-[**Project**](https://github.com/DaViD-Pigeon/AudioEditSurvey)
+- `Preprint` [Audio Editing in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2606.23139), **Changhao Pan**, Yifei Fan, Fan Zhuo, Yifu Chen, Wenxiang Guo, Yu Zhang, et al. \| [**Project**](https://github.com/DaViD-Pigeon/AudioEditSurvey)
 
-- `Preprint` [VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching](https://arxiv.org/abs/2608.12951), Wenxiang Guo, **Changhao Pan**, Ziyue Jiang, Zhou Zhao, Fei Wu. \\
-[**Project**](https://voxaudio.github.io/)
+- `Preprint` [VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching](https://arxiv.org/abs/2608.12951), Wenxiang Guo, **Changhao Pan**, Ziyue Jiang, Zhou Zhao, Fei Wu. \| [**Project**](https://voxaudio.github.io/)
 
 - `ACL 2026` [Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness](https://arxiv.org/abs/2603.14889), Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, **Changhao Pan**, et al.
 
-- `EMNLP 2026` [Speaking While Listening: A Survey and Empirical Audit of Full-Duplex Spoken Dialogue Systems](https://arxiv.org/abs/2606.19453), Jingyu Lu, Yuhan Wang, Jianming Luo, Yifu Chen, Tianle Liang, Shengpeng Ji, Ziyue Jiang, Xiaoda Yang, Yu Zhang, **Changhao Pan** et al. \\
-[**Project**](https://github.com/DuplexLM/DuplexSurvey)
+- `EMNLP 2026` [Speaking While Listening: A Survey and Empirical Audit of Full-Duplex Spoken Dialogue Systems](https://arxiv.org/abs/2606.19453), Jingyu Lu, Yuhan Wang, Jianming Luo, Yifu Chen, Tianle Liang, Shengpeng Ji, Ziyue Jiang, Xiaoda Yang, Yu Zhang, **Changhao Pan** et al. \| [**Project**](https://github.com/DuplexLM/DuplexSurvey)
 
 
 
