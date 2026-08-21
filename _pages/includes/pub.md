@@ -6,17 +6,17 @@
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">ACL 2026</div>
-            <img src='../../images/SwanBench-Speech.png' alt="SwanBench-Speech" width="100%"></div>
+            <div class="badge">Technique Report</div>
+            <img src='../../images/SwanTale.png' alt="SwanTale" width="100%"></div>
         </div>
         <div class='paper-box-text' markdown="1">
 
-[Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](https://arxiv.org/abs/2605.28618) \\
-**Changhao Pan**, Rui Yang, Han Wang, et al.
+[SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks](https://arxiv.org/abs/2608.02023) \\
+Yu Zhang, Ruiqi Li, **Changhao Pan**, et al.
 
-[**Project**](https://swanaigc.github.io/#bench) \| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MM-Speech/SwanBench-Speech)
+[**Project**](https://swanaigc.github.io/#swantale) \| [**#1st of the Daily Paper**](https://huggingface.co/papers/2608.02023)
 
-- SwanBench-Speech evaluates long-form speech generation across scenario coverage, automatic metrics, and model behavior analysis.
+- SwanTale is a unified model for multi-speaker expressive speech and audio generation across instruct and zero-shot tasks.
 </div>
 </div>
 
@@ -31,48 +31,44 @@
 [SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue](https://arxiv.org/abs/2605.30993) \\
 Ruiqi Li#, Yu Zhang#, **Changhao Pan**#, et al.
 
-[**Project**](https://swanaigc.github.io/#swanvoice)
+[**Project**](https://swanaigc.github.io/#swanvoice) \| [**#3rd of the Daily Pape**](https://huggingface.co/papers/2605.30993)
 
-- SwanVoice models monologue and dialogue generation in one system, using speaker-turn conditioning and flow matching to keep voice, rhythm, and conversation context coherent.
+- SwanVoice is a zero-shot TTS model for expressive long-form monologue and dialogue with one to four speakers.
 
 </div>
 </div>
-
-## 👂 Spatial Audio
 
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">ACM-MM 2025</div>
-            <img src='../../images/mesa.png' alt="sym" width="100%"></div>
+            <div class="badge">ACL 2026</div>
+            <img src='../../images/SwanBench-Speech.png' alt="SwanBench-Speech" width="100%"></div>
         </div>
         <div class='paper-box-text' markdown="1">
 
-[A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference]() \\
-**Changhao Pan**#, Wenxiang Guo, Yu Zhang, et al.
+[Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](https://arxiv.org/abs/2605.28618) \\
+**Changhao Pan**, Rui Yang, Han Wang, et al.
 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)]() [**Project**](https://david-pigeon.github.io/mesa-demo/) 
-- PSA-MOS provides 50 hours of high-quality spatial audio recordings, with detailed localization annotations and fine-grained MOS ratings.
-- MESA is a multimodal evaluation framework for spatial audio playback systems which exhibits strong correlation with human perceptual assessments.
+[**Project**](https://swanaigc.github.io/#bench) \| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MM-Speech/SwanBench-Speech)
+
+- SwanBench-Speech evaluates long-form speech generation across scenario coverage, automatic metrics, and model behavior analysis.
 </div>
 </div>
 
-<!-- <div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACM-MM 2025</div>
-            <img src='../../images/isdrama.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
+- `Preprint` [Audio Editing in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2606.23139), **Changhao Pan**, Yifei Fan, Fan Zhuo, Yifu Chen, Wenxiang Guo, Yu Zhang, et al. \\
+[**Project**](https://github.com/DaViD-Pigeon/AudioEditSurvey)
 
-[ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630) \\
-Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
+- `Preprint` [VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching](https://arxiv.org/abs/2608.12951), Wenxiang Guo, **Changhao Pan**, Ziyue Jiang, Zhou Zhao, Fei Wu. \\
+[**Project**](https://voxaudio.github.io/)
 
-[![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=ISDrama+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
-- MRSDrama is the first multimodal recorded spatial drama dataset, containing binaural drama audios, scripts, videos, geometric poses, and textual prompts. 
-- ISDrama is the first immersive spatial drama generation model through multimodal prompting.
-</div>
-</div> -->
+- `ACL 2026` [Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness](https://arxiv.org/abs/2603.14889), Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, **Changhao Pan**, et al.
+
+- `EMNLP 2026` [Speaking While Listening: A Survey and Empirical Audit of Full-Duplex Spoken Dialogue Systems](https://arxiv.org/abs/2606.19453), Jingyu Lu, Yuhan Wang, Jianming Luo, Yifu Chen, Tianle Liang, Shengpeng Ji, Ziyue Jiang, Xiaoda Yang, Yu Zhang, **Changhao Pan** et al. \\
+[**Project**](https://github.com/DuplexLM/DuplexSurvey)
+
+
+
+## 👂 Spatial Audio
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -100,19 +96,27 @@ Wenxiang Guo*#*, **Changhao Pan***#*, Zhiyuan Zhu*#*, Xintong Hu*#*, et al.
         </div>
         <div class='paper-box-text' markdown="1">
 
-[SwanSphere: Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940) \\
+[Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer](https://arxiv.org/abs/2605.30940) \\
 Ke Lei#, Yu Zhang#, **Changhao Pan**#, et al.
 
-[**Project**](https://swanaigc.github.io/#swansphere)
+[**Project**](https://swanaigc.github.io/#swansphere) \| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MM-Speech/SwanSphere)
 
-- SwanSphere combines streaming spatial audio generation, SVAC alignment, and multi-objective ODPO for synchronized video-to-spatial and text-to-spatial audio synthesis.
+- A causal autoregressive diffusion transformer architecture that enables streaming high-quality spatial audio generation.
 
 </div>
 </div>
+
+- `ACM-MM-2025` [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](https://dl.acm.org/doi/10.1145/3746027.3755571), **Changhao Pan**#, Wenxiang Guo#, Yu Zhang#, et al. \| [**Project**](https://david-pigeon.github.io/mesa-demo/)
 
 - `ACMMM-2025` [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al. \| [![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=ISDrama+Stars)](https://github.com/AaronZ345/ISDrama) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Dataset)](https://huggingface.co/datasets/AaronZ345/MRSDrama) [**Project**](https://aaronz345.github.io/ISDramaDemo/) 
 
-- `AACL-IJCNLP-2025` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
+- `EMNLP-2026` One-Stage Multi-Task Instruction-Guided 3D Spatial Audio Editing, Ke Lei, Chenyuhao Wen, Yu Zhang, Wenxiang Guo, **Changhao Pan**, et al.
+
+- `EMNLP-2026` CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation, Zhiyuan Zhu, Han Wang, Wenxiang Guo, Yu Zhang, **Changhao Pan**, et al.
+
+- `AACL-IJCNLP-2025` [ASAudio: A Survey of Advanced Spatial Audio Research](https://arxiv.org/abs/2508.10924), Zhiyuan Zhu, Yu Zhang, Wenxiang Guo, **Changhao Pan**, Zhou Zhao. \| [![](https://img.shields.io/github/stars/dieKarotte/ASAudio?style=social&label=ASAudio+Stars)](https://github.com/dieKarotte/ASAudio)
+
+- `Preprint` [Spatial-Omni: Spatial Audio Understanding Integration in Multimodal LLMs via FOA Encoding](https://arxiv.org/abs/2606.10738), Zhiyuan Zhu, Yixuan Chen, Yiwen Shao, Wenxiang Guo, **Changhao Pan**, Yu Zhang, et al. \| [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/dieKarotte/Spatial-Omni)
 
 ## 🎙 Singing Voice Synthesis
 <div class='paper-box'>
@@ -137,47 +141,7 @@ Yu Zhang, **Changhao Pan***#*, Wenxiang Guo*#*, et al.
 <div class='paper-box'>
     <div class='paper-box-image'>
         <div>
-            <div class="badge">ACL 2025(Findings)</div>
-            <img src='../../images/stars.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
-
-[STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/pdf/2507.06670) \\
-Wenxiang Guo#, Yu Zhang#, **Changhao Pan**#, et al.
-
-[**Project**](https://gwx314.github.io/stars-demo/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)   
-- STARS is a unified framework for singing transcription, alignment, and refined style annotation based on hierarchical representation learning.
-</div>
-</div>
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">ACL 2025(Findings)</div>
-            <img src='../../images/tcsinger2.png' alt="sym" width="100%"></div>
-        </div>
-        <div class='paper-box-text' markdown="1">
-
-[TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis](https://arxiv.org/abs/2505.14910) \\
-Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
-
-[**Project**](https://aaronz345.github.io/TCSinger2Demo/) \| [![](https://img.shields.io/github/stars/AaronZ345/TCSinger2?style=social&label=TCSinger2+Stars)](https://github.com/AaronZ345/TCSinger2) 
-- TCSinger 2 is a multi-task multilingual zero-shot SVS model with style transfer and style control based on various prompts.
-</div>
-</div>
-
-- `AACL-IJCNLP-2025(Oral)` [Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches](https://aclanthology.org/2025.ijcnlp-long.24/), **Changhao Pan**, Dongyu Yao, Yu Zhang, et al. \| [![](https://img.shields.io/github/stars/DaViD-Pigeon/SyntheticSingers?style=social&label=SyntheticSingers+Stars)](https://github.com/DaViD-Pigeon/SyntheticSingers)
-
-- `EMNLP-2024` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao. ｜ [**Project**](https://aaronz345.github.io/TCSingerDemo/) \| [![](https://img.shields.io/github/stars/AaronZ345/TCSinger?style=social&label=TCSinger+Stars)](https://github.com/AaronZ345/TCSinger) 
-
-- `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al.  \| [**Project**](https://gwx314.github.io/tech-singer/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
-
-## 🎼 Music Generation
-
-<div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">EMNLP 2025(Findings)</div>
+            <div class="badge">EMNLP 2025</div>
             <img src='../../images/versband.png' alt="sym" width="100%"></div>
         </div>
         <div class='paper-box-text' markdown="1">
@@ -185,19 +149,30 @@ Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 [Versatile Framework for Song Generation with Prompt-based Control](https://arxiv.org/abs/2504.19062) \\
 Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al.
 
-[![](https://img.shields.io/github/stars/AaronZ345/Versband?style=social&label=Versband+Stars)](https://github.com/AaronZ345/Versband) \|  [**Project**](https://aaronz345.github.io/VersBandDemo/) 
-- VersBand is a multi-task song generation framework for synthesizing high-quality, aligned songs with prompt-based control. 
+[![](https://img.shields.io/github/stars/AaronZ345/Versband?style=social&label=Versband+Stars)](https://github.com/AaronZ345/Versband) \|  [**Project**](https://aaronz345.github.io/VersBandDemo/)
+- VersBand is a multi-task song generation framework for synthesizing high-quality, aligned songs with prompt-based control.
 </div>
 </div>
 
+- `AACL-IJCNLP-2025(Oral)` [Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches](https://aclanthology.org/2025.ijcnlp-long.24/), **Changhao Pan**, Dongyu Yao, Yu Zhang, et al. \| [![](https://img.shields.io/github/stars/DaViD-Pigeon/SyntheticSingers?style=social&label=SyntheticSingers+Stars)](https://github.com/DaViD-Pigeon/SyntheticSingers)
+
+- `ACL 2025(Findings)` [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](https://arxiv.org/pdf/2507.06670), Wenxiang Guo#, Yu Zhang#, **Changhao Pan**#, et al. \| [**Project**](https://gwx314.github.io/stars-demo/) \| [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS)
+
+- `ACL 2025(Findings)` [TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis](https://arxiv.org/abs/2505.14910), Yu Zhang#, Wenxiang Guo#, **Changhao Pan**#, et al. \| [**Project**](https://aaronz345.github.io/TCSinger2Demo/) \| [![](https://img.shields.io/github/stars/AaronZ345/TCSinger2?style=social&label=TCSinger2+Stars)](https://github.com/AaronZ345/TCSinger2)
+
+- `EMNLP-2024` [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao. ｜ [**Project**](https://aaronz345.github.io/TCSingerDemo/) \| [![](https://img.shields.io/github/stars/AaronZ345/TCSinger?style=social&label=TCSinger+Stars)](https://github.com/AaronZ345/TCSinger)
+
+- `AAAI-2025` [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et. al.  \| [**Project**](https://gwx314.github.io/tech-singer/) \| [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
+
 ## 📹 Audio-Visual Generation
+
+- `Technical Report` [ALIVE: Animate Your World with Lifelike Audio-Video Generation](https://arxiv.org/abs/2602.08682), Ying Guo, Qijun Gan, Yifu Zhang, et al. \\
+Contributor: **Changhao Pan**
 
 - `ICML-2026` [TMD-Bench: A Multi-Level Evaluation Paradigm for Music-Dance Co-Generation](https://arxiv.org/abs/2605.01809v1), Xiaoda yang#, Majun Zhang#, **Changhao Pan**, et al.
 
 - `Arxiv` [ImVideoEdit: Image-learning Video Editing via 2D Spatial Difference Attention Blocks](https://arxiv.org/abs/2604.07958), Jiayang Xu, Fan Zhuo, Majun Zhang, **Changhao Pan**, et al. 
 
 ## Others
-
-- ``ACL-2026`` [Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness](https://arxiv.org/abs/2603.14889), Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, **Changhao Pan**, et al.
 
 - ``IEEE-TVCG`` [Interactive Table Synthesis with Natural Language](https://ieeexplore.ieee.org/document/10304286), Yanwei Huang, Yunfan Zhou, Ran Chen, **Changhao Pan**, Xinhuan Shu, Di Weng, Yingcai Wu.
