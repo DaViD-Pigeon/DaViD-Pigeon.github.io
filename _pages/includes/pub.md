@@ -55,7 +55,7 @@ Ruiqi Li#, Yu Zhang#, **Changhao Pan**#, et al.
 </div>
 </div>
 
-- `Preprint` [Audio Editing in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2606.23139), **Changhao Pan**, Yifei Fan, Fan Zhuo, Yifu Chen, Wenxiang Guo, Yu Zhang, et al. \| [**Project**](https://github.com/DaViD-Pigeon/AudioEditSurvey)
+- `AACL-IJCNLP-2026` [Audio Editing in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2606.23139), **Changhao Pan**, Yifei Fan, Fan Zhuo, Yifu Chen, Wenxiang Guo, Yu Zhang, et al. \| [**Project**](https://github.com/DaViD-Pigeon/AudioEditSurvey)
 
 - `Preprint` [VoxAudio: Vocalized Audio Synthesis via Multi-Reward Autoregressive Flow Matching](https://arxiv.org/abs/2608.12951), Wenxiang Guo, **Changhao Pan**, Ziyue Jiang, Zhou Zhao, Fei Wu. \| [**Project**](https://voxaudio.github.io/)
 
