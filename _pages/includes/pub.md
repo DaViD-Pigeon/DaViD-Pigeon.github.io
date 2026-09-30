@@ -61,6 +61,8 @@ Ruiqi Li#, Yu Zhang#, **Changhao Pan**#, et al.
 
 - `ACL 2026` [Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness](https://arxiv.org/abs/2603.14889), Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, **Changhao Pan**, et al.
 
+- `Technical Report` [Omni Interaction Agent Technical Report](https://arxiv.org/abs/2609.08977), Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu, Franz, Evan, Theron Veyra, **Changhao Pan**, et al. \| [**Project**](https://omni-interaction-gander.github.io/) \| [![](https://img.shields.io/github/stars/Omni-Interaction-Gander/Omni-Interaction-Agent?style=social&label=Gander+Stars)](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent)
+
 - `EMNLP 2026` [Speaking While Listening: A Survey and Empirical Audit of Full-Duplex Spoken Dialogue Systems](https://arxiv.org/abs/2606.19453), Jingyu Lu, Yuhan Wang, Jianming Luo, Yifu Chen, Tianle Liang, Shengpeng Ji, Ziyue Jiang, Xiaoda Yang, Yu Zhang, **Changhao Pan** et al. \| [**Project**](https://github.com/DuplexLM/DuplexSurvey)
 
 
